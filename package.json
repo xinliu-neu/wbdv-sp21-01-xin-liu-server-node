@@ -1,0 +1,15 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "Sample node server for web dev class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xin Liu",
+  "license": "ISC",
+  "dependencies": {
+    "expree": "^0.0.7",
+    "express": "^4.17.1"
+  }
+}
