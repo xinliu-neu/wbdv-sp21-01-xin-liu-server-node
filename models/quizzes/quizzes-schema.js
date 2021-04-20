@@ -10,5 +10,4 @@ const quizzesSchema = mongoose.Schema({
 
 },{collection: "quizzes"})
 
-
 module.exports = quizzesSchema
