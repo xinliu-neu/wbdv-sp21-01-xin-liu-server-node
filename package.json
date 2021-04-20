@@ -13,9 +13,7 @@
     "expree": "^0.0.7",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
-    "mongoose": "^5.12.5"
-  },
-  "devDependencies": {
+    "mongoose": "^5.12.5",
     "dotenv": "^8.2.0"
   }
 }
